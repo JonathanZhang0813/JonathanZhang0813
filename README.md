@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonathanZhang0813
 - 👀 I’m interested in HTML and Javascript
-- 💞️ I’m looking to collaborate on Turtlesim
+- 💞️ I’m looking to collaborate on Turtle-Universe
 - 📫 How to reach me Email: JonathanZhang0813@163.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: left-handed
